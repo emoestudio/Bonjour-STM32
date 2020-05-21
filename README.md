@@ -13,8 +13,8 @@
 教程位于 **[我们的网站](https://www.emoe.xyz/archives/970)** 上,同时有几个视频发布在bilibili,链接如下:  
 
 - [开发环境安装及配置](https://www.bilibili.com/video/BV1Lg4y1B7Bf/)  
-- [使用KiCad设计电路板]  还没发布.jpg  
+- [使用KiCad设计电路板](https://www.bilibili.com/video/BV1Kp4y1X7pS/)  
+
 
 暂时这样咯~咕咕~  
-
 
