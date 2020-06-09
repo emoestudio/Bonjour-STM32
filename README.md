@@ -18,3 +18,11 @@
 
 暂时这样咯~咕咕~  
 
+# 提示
+
+如果你访问Github有困难，或者下载不下来，请到Gitee上下载我们的镜像源:  
+https://gitee.com/emoestudio/Bonjour-STM32
+
+Github源项目地址:  
+https://github.com/emoestudio/Bonjour-STM32
+
