@@ -16,7 +16,7 @@
 - [使用KiCad设计电路板](https://www.bilibili.com/video/BV1Kp4y1X7pS/)  
 
 
-暂时这样咯~咕咕~  
+暂时这样咯 ~咕咕~  
 
 # 提示
 
@@ -26,3 +26,6 @@ https://gitee.com/emoestudio/Bonjour-STM32
 Github源项目地址:  
 https://github.com/emoestudio/Bonjour-STM32
 
+# 我们的微信公众号
+
+![wechat_qr_code](Wechat_emoe.jpg)
